@@ -2,7 +2,6 @@
    <h1>Meu nome é  Raphael de Souza.</h1>
    <h2>
      Sou estudante de tecnologia e possuo conhecimentos em HTML, CSS e estou estudando bastante JavaScript, recentemente estou buscando fortalecer meu contato direto com essa linguagem que da pra fazer muita coisa, procuro principalmente no futuro estar trabalhando com essa linguagem que tem uma ampla usabilidade. <br>
-      <br>
   ### Sinta-se convidado a entrar em contato comigo diretamente pelas seguintes redes sociais:
   [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@raphaelcoelhx#1843/)
   [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/raphaelcoelho__/)
