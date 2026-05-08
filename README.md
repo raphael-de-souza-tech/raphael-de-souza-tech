@@ -19,7 +19,7 @@ Estou na programação em busca de crescer nessa carreira e fazer projetos intel
   [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raphael-de-souza-tech)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raphael-de-souza-8742b61b1/)
   ### *Possuo conhecimentos em:*
-  <img src="https://skillicons.dev/icons?i=html,css,figma,js,postgres,git,github,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=react,tailwindcss,gcp,figma,js,postgres,git,github,vscode&theme=dark" />
 </div>
 <!-- footer -->
 </div>
