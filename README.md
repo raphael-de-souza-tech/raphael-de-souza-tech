@@ -1,7 +1,9 @@
 <div align='center'>
     <h1>Projeto de Estudo - Sorteio de Filmes.</h1>
     <h2>
-     Sou estudante de tecnologia e possuo conhecimentos em React, TailwinsCSS e estou sempre estudando e fortalecendo meu contato com essa stack em front-end, recentemente busco concretizar meu contato direto com essa stack que da pra fazer muita coisa. <br>
+     Sou estudante de ADS e possuo conhecimentos em React, TailwinsCSS, Git e estou sempre estudando e fortalecendo meu contato com tecnologia, mas atualmente front-end, onde busco concretizar meu contato direto com esse combo que da pra fazer muita coisa.
+
+Estou na programação em busca de crescer nessa carreira e fazer projetos inteligentes e designs interessantes com impacto forte no usuário.📈🌐 <br>
 
 
   ### Ferramentas utilizadas nesse projeto:
