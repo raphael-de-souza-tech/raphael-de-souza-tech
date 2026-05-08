@@ -1,7 +1,7 @@
 <div align='center'>
     <h1>Projeto de Estudo - Sorteio de Filmes.</h1>
     <h2>
-     Sou estudante de ADS e possuo conhecimentos em React, TailwinsCSS, Git e estou sempre estudando e fortalecendo meu contato com tecnologia, mas atualmente front-end, onde busco concretizar meu contato direto com esse combo que da pra fazer muita coisa.
+     Sou estudante de ADS e possuo conhecimento em React, TailwindCSS, Git e iniciando GCP pelo Google Skills, e estou sempre estudando e fortalecendo meu contato com tecnologia, onde busco concretizar meu aprendizado fazendo projetos pessoais.
 
 Estou na programação em busca de crescer nessa carreira e fazer projetos inteligentes e designs interessantes com impacto forte no usuário.📈🌐 <br>
 
