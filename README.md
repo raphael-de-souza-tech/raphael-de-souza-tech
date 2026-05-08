@@ -9,12 +9,12 @@
   [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@raphaelcoelhx#1843/)
   [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/raphaelcoelho__/)
   [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raphael-de-souza-tech)
+  <br>
   <img src="https://skillicons.dev/icons?i=react,tailwindcss,gcp,figma,js,postgres,git,github,vscode&theme=dark" />
 </div>
-<!-- footer -->
-</div>
+
 <div align="center">
-   <br>
 <h5> Livre seu coração da raiva e do medo e não ambicione se não o melhor de si mesmo. <br>
 <strong>Marco Aurelio _ Meditações.</strong></h5>
+</div>
 <!-- --- -->
