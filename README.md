@@ -1,8 +1,17 @@
 <div align='center'>
-   <h1>Meu nome é  Raphael de Souza.</h1>
-   <h2>
-     Sou estudante de tecnologia e possuo conhecimentos em HTML, CSS e estou estudando bastante JavaScript, recentemente estou buscando fortalecer meu contato direto com essa linguagem que da pra fazer muita coisa, procuro principalmente no futuro estar trabalhando com essa linguagem que tem uma ampla usabilidade. <br>
-  ### Sinta-se convidado a entrar em contato comigo diretamente pelas seguintes redes sociais:
+    <h1>Projeto de Estudo - Sorteio de Filmes.</h1>
+    <h2>
+     Sou estudante de tecnologia e possuo conhecimentos em React, TailwinsCSS e estou estudando fortalecendo meu contato com essa stack em front-end, recentemente busco concretizar meu contato direto com essa stack que da pra fazer muita coisa. <br>
+
+
+  ### Ferramentas utilizadas nesse projeto:
+  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+  ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+  ![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+  
+  ### Sinta-se convidadx a entrar em contato comigo diretamente pelas seguintes redes sociais:
   [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@raphaelcoelhx#1843/)
   [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/raphaelcoelho__/)
   [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raphael-de-souza-tech)
@@ -11,7 +20,8 @@
   <img src="https://skillicons.dev/icons?i=html,css,figma,js,postgres,git,github,vscode&theme=dark" />
 </div>
 <!-- footer -->
+</div>
 <div align="center">
-<h5> <i> A nossa vida é aquilo que os nossos pensamentos fizerem dela. <br>
-<strong>Marco Aurélio</strong> </i> </h5>
+<h5> Livre seu coração da raiva e do medo e não ambicione se não o melhor de si mesmo. <br>
+<strong>Marco Aurelio _ Meditações.</strong></h5>
 <!-- --- -->
