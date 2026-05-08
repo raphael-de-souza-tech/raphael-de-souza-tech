@@ -14,6 +14,7 @@
 <!-- footer -->
 </div>
 <div align="center">
+   <br>
 <h5> Livre seu coração da raiva e do medo e não ambicione se não o melhor de si mesmo. <br>
 <strong>Marco Aurelio _ Meditações.</strong></h5>
 <!-- --- -->
